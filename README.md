@@ -2,3 +2,4 @@
 selection new selection
 bus
 yes
+write
