@@ -4,3 +4,4 @@ bus
 yes
 write
 release
+not power
