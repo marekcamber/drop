@@ -5,3 +5,4 @@ yes
 write
 release
 not power
+thuesdey
