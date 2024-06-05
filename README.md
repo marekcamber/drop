@@ -6,3 +6,4 @@ write
 release
 not power
 thuesdey
+wensday
