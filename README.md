@@ -7,3 +7,4 @@ release
 not power
 thuesdey
 wensday
+doberstag
