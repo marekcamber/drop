@@ -8,3 +8,4 @@ not power
 thuesdey
 wensday
 doberstag
+now
