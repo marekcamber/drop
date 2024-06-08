@@ -9,3 +9,4 @@ thuesdey
 wensday
 doberstag
 now
+stakje
