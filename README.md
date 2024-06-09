@@ -10,3 +10,4 @@ wensday
 doberstag
 now
 stakje
+fuck
