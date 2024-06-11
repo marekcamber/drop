@@ -12,3 +12,4 @@ now
 stakje
 fuck
 deep
+lock
